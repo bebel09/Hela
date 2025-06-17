@@ -1,0 +1,14 @@
+/* Cor de fundo usando nome da cor */
+.box-vermelha {
+    background-color: red;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    color: white; /* Cor do texto */
+}
+
+/* Cor do texto usando nome da cor */
+.texto-azul {
+    color: blue;
+    font-size: 1.2em;
+}
